@@ -1,9 +1,9 @@
-  - {name: 🇬🇧 英国 V2CROSS.COM, server: gw.lydwan.com, port: 35601, type: ss, cipher: chacha20-ietf-poly1305, password: 889e7055-e174-43a2-9004-a8f55f5d9784}
-  - {name: 亚太地区 V2CROSS.COM, server: 103.125.216.22, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 🇯🇵 日本 东京Choopa数据中心, server: 45.32.51.200, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 🇸🇬 美国 新泽西州皮斯卡特维Choopa数据中心, server: 207.246.122.197, port: 2053, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 🇮🇷 伊朗 V2CROSS.COM, server: 31.58.50.110, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 🇧🇪 比利时 V2CROSS.COM, server: 143.20.204.5, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 🇿🇦 南非 V2CROSS.COM, server: 154.197.108.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: 45.40.152.253, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
-  - {name: 安徽省马鞍山市 联通, server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+  - {name: 安徽省马鞍山市 联通, server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+  - {name: 🇷🇴 罗马尼亚 V2CROSS.COM, server: 89.34.227.238, port: 57606, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 莫斯科JustHost, server: 45.140.169.216, port: 30112, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4}
+  - {name: 安徽省马鞍山市 联通 2, server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+  - {name: 🇸🇬 新加坡 DigitalOcean数据中心, server: 159.89.205.195, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
+  - {name: 安徽省马鞍山市 联通 3, server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
+  - {name: 🇺🇸 美国 佛罗里达州迈阿密市, server: 72.56.24.235, port: 443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 V2CROSS.COM, server: 44.32.224.196, port: 2053, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false}
+  - {name: 安徽省马鞍山市 联通 4, server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
